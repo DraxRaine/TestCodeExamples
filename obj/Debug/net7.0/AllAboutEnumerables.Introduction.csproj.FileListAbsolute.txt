@@ -28,3 +28,5 @@ C:\Udemy_Courses\TestCodeExamples\obj\Debug\net7.0\refint\AllAboutEnumerables.In
 C:\Udemy_Courses\TestCodeExamples\obj\Debug\net7.0\AllAboutEnumerables.Introduction.pdb
 C:\Udemy_Courses\TestCodeExamples\obj\Debug\net7.0\AllAboutEnumerables.Introduction.genruntimeconfig.cache
 C:\Udemy_Courses\TestCodeExamples\obj\Debug\net7.0\ref\AllAboutEnumerables.Introduction.dll
+C:\Udemy_Courses\TestCodeExamples\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Udemy_Courses\TestCodeExamples\obj\Debug\net7.0\AllAboutEnumerables.Introduction.csproj.CopyComplete

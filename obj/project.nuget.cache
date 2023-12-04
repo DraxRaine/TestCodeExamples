@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ccU9Af8bJcg/bDJBA8o2rt9xC6au4yIqhH85ZGL61wV/FDO6M6w50LwVZavM18uDCpBrXip1EMhRYVvVZiTcNQ==",
+  "dgSpecHash": "U7OPXFig5QurZmETmFi0tPARr4OU+wyYf7yc+COJJZDNJlKNzLVCC7X6SM4/cxInN/YEV5OrVilgBtbIjTHdFQ==",
   "success": true,
   "projectFilePath": "C:\\Udemy_Courses\\TestCodeExamples\\AllAboutEnumerables.Introduction.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Fabian\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
